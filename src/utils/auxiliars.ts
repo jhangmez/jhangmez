@@ -1,3 +1,3 @@
-export const displayDate = (date: Date | null): string => {
-  return date ? date.toISOString().split('T')[0] : ''
+export const displayFlag = (flag: string, icon: string): string => {
+  return flag
 }
