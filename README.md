@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jhan Gómez and today is viernes, 22 de marzo, 07:19 PET.
+My name is Jhan Gómez and today is viernes, 22 de marzo, 10:10 PET.
 <h3>Things I code with</h3>
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=React&style=flat-square&logoColor=white" />
