@@ -1,9 +1,9 @@
-name: README build
+name: READMEmd build
 
 on:
   push:
     branches:
-      - main
+      - 'main'
   schedule:
     - cron: '0 */3 * * *'
 
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout current repository to Main branch
         uses: actions/checkout@v4.1.1
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
