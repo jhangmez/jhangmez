@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */3 * * *'
 
@@ -13,13 +13,13 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Use Node.js
+        uses: actions/checkout@v4.1.1
+      - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
+        uses: actions/cache@v4.0.2
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
@@ -35,4 +35,3 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: main
