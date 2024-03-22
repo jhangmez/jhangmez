@@ -1,6 +1,6 @@
-### Hi there 👋
-My name is Jhan Gómez and today is viernes, 22 de marzo, 16:10 PET.
-<h3>Things I code with</h3>
+### Hola, bienvenido👋
+Mi nombre es Jhan Gómez y hoy es viernes, 22 de marzo, 18:54 PET.
+<h3>Cosas con las que hago code</h3>
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=React&style=flat-square&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-0369a1?logo=Tailwindcss&style=flat-square&logoColor=white" />
