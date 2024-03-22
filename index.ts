@@ -2,11 +2,7 @@ import { generateBadgeUrl } from './src/utils/auxiliars'
 import Mustache from 'mustache'
 import fs from 'fs-extra'
 const MUSTACHE_MAIN_DIR = './main.mustache'
-/**
- * DATA is the object that contains all
- * the data to be provided to Mustache
- * Notice the "name" and "date" property.
- */
+
 const badges = [
   { tech: 'React', color: '45b8d8', logoColor: 'white', logo: 'react' },
   {
