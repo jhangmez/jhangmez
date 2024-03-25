@@ -31,7 +31,7 @@ jobs:
         run: npm start
       - name: Generate README file
         run: node dist/index.js
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v5.0.0
+      - name: auto-publish
+        uses: wangziling100/AutoPublish@v1.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
