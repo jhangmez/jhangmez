@@ -1,5 +1,5 @@
 ### Hola, bienvenido👋
-Mi nombre es Jhan Gómez y hoy es viernes, 19 de abril, 3:19 a. m. PET.
+Mi nombre es Jhan Gómez y hoy es viernes, 19 de abril, 11:20 a. m. PET.
 <h3>Cosas con las que hago code</h3>
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=React&style=flat-square&logoColor=white" />
