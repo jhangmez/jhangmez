@@ -4,7 +4,7 @@
 
 ---
 
-## Hi, I'm Jhan Gómez, you're welcome👋
+## Hi, I'm Jhan Gómez, welcome👋
 
 
 - I love coding and training AI models
@@ -77,7 +77,7 @@
 - <img src="https://www.linkedin.com/favicon.ico" alt='linkedin' width="20"/> [Linkedin](https://linkedin.com/in/jhangmez/)
 
 
-##### Last update: Monday, July 29, 2024 at 4:02 PM GMT-5
+##### Last update: Monday, July 29, 2024 at 4:05 PM GMT-5
 
 ---
 
