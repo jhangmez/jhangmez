@@ -1,8 +1,17 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" alt="jhangmez.xyz" src="./images/jhangmezxyz.png">
+</div>
 
-My name is Jhan Gómez and today is viernes, 22 de marzo, 16:10 PET.
+---
 
-<h3>Things I code with</h3>
+## Hi, I'm Jhan Gómez, you're welcome👋
+
+
+- I love do code and training ai models
+- You can visit my main page where I put my works, that's online in [jhangmez.xyz](https://jhangmez.xyz)
+
+
+### My stack
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&style=flat-square&logoColor=white" /><img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?logo=react&style=flat-square&logoColor=white" /><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square&logoColor=white" /><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&style=flat-square&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=flat-square&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&style=flat-square&logoColor=white" /><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square&logoColor=white" /><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=flat-square&logoColor=white" /><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-0369a1?logo=tailwindcss&style=flat-square&logoColor=white" /><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square&logoColor=white" /><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&style=flat-square&logoColor=white" /><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&style=flat-square&logoColor=white" /><img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=apollo-graphql&style=flat-square&logoColor=white" /><img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-2088FF?logo=github-actions&style=flat-square&logoColor=white" /><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google Cloud Platform-1a73e8?logo=google-cloud&style=flat-square&logoColor=white" /><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&style=flat-square&logoColor=white" /><img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-db7092?logo=styled-components&style=flat-square&logoColor=white" /><img alt="NestJs" src="https://img.shields.io/badge/NestJs-ea2845?logo=nestjs&style=flat-square&logoColor=white" /><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&style=flat-square&logoColor=black" /><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white" /><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&style=flat-square&logoColor=white" /><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white" />
 </p>
@@ -15,21 +24,23 @@ My name is Jhan Gómez and today is viernes, 22 de marzo, 16:10 PET.
 - <img src="https://jhangmez.vercel.app/favicon.ico" alt='portafolio' width="20"/> [Web Resume](https://github.com/jhangmez/pagina)
 - <img src="https://gamarra.vercel.app/favicon.ico" alt='portafolio' width="20"/> [Ronal Store](https://ronal.quatu.xyz)
 
+
 #### AI
 
 - <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/644474219174daa2f6919d31/x0-nnMAxNtWqyaEaO_X71.jpeg" alt='hugginfaces me' width="20"/> [ChatPRG](https://huggingface.co/collections/jhangmez/chatprg-66a7354d248478833bd4bf40)
 
 ### Tools
 
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Mapas%20Conceptuales&description=null&bg=181211&color=D1D0CF" alt="Background gradients" width="40%"  />   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor)                                                                                                             |
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="40%"  />             |
-| -------------                                                                                                                                                                    |
-| [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech)                                                                                                                    |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Mapas%20Conceptuales&description=null&bg=181211&color=D1D0CF" alt="Background gradients" width="40%"  /> |
+| -------------------- |
+| [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor) |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="40%"  /> |
+| ------------- |
+| [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech) |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Generador%20de%20gradientes&description=null&bg=2d089a&color=ffffff" alt="Conceptual maps" width="40%"  /> |
-| ---------------                                                                                                                                                                  |
-| [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual)                                                                                                                 |
+| --------------- |
+| [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual) |
+
 
 ### Harkaysoft
 
@@ -47,7 +58,8 @@ My name is Jhan Gómez and today is viernes, 22 de marzo, 16:10 PET.
 - <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt='gmail' width="20"/> [jhangmez.pe@gmail.com](mailto:jhangmez.pe@gmail.com)
 - <img src="https://www.linkedin.com/favicon.ico" alt='linkedin' width="20"/> [Linkedin](https://linkedin.com/in/jhangmez/)
 
-##### Last update: Monday, July 29, 2024 at 3:22 PM GMT-5
+
+##### Last update: Monday, July 29, 2024 at 3:25 PM GMT-5
 
 ---
 
