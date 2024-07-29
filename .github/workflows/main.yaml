@@ -5,7 +5,7 @@ on:
     branches:
       - 'main'
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */8 * * *'
 
 jobs:
   build:
@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout current repository to Main branch
         uses: actions/checkout@v4.1.1
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
@@ -31,7 +34,7 @@ jobs:
         run: npm start
       - name: Generate README file
         run: node dist/index.js
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v5.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
