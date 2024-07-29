@@ -75,7 +75,7 @@ const TOOLS = [
     name: 'Background gradients',
     url: 'https://www.jhangmez.xyz/tools/gradientcolor',
     image:
-      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Mapas%20Conceptuales&description=null&bg=181211&color=D1D0CF'
+      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff'
   },
   {
     name: 'Voice to text',
@@ -87,7 +87,7 @@ const TOOLS = [
     name: 'Conceptual maps',
     url: 'https://www.jhangmez.xyz/tools/mapaconceptual',
     image:
-      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Generador%20de%20gradientes&description=null&bg=2d089a&color=ffffff'
+      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF'
   }
 ]
 const toolUrls = generateToolUrl(TOOLS)
