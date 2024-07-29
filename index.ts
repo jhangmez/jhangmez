@@ -90,9 +90,7 @@ const TOOLS = [
       'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Generador%20de%20gradientes&description=null&bg=2d089a&color=ffffff'
   }
 ]
-const toolUrls = TOOLS.map((tool) =>
-  generateToolUrl(tool.name, tool.url, tool.image)
-)
+const toolUrls = generateToolUrl(TOOLS)
 
 let DATA = {
   name: 'Jhan Gómez',
@@ -107,7 +105,7 @@ let DATA = {
     timeZone: 'America/Lima'
   }),
   badges: badgeUrls.join(''),
-  tools: toolUrls.join('')
+  tools: toolUrls
 }
 /**
  * A - We open 'main.mustache'

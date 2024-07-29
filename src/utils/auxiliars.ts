@@ -7,18 +7,24 @@ export const generateBadgeUrl = (
   const url = `https://img.shields.io/badge/${tech}-${color}?logo=${
     logo ?? tech
   }&style=flat-square&logoColor=${logoColor}`
-  return `<img alt="${tech}" src="${url}" />`
+  return `<img alt="${tech}" src="${url}" />
+  `
 }
 
 export const generateToolUrl = (
-  name: string,
-  url: string,
-  image: string,
-  percent: number = 40
+  tools: {
+    name: string
+    url: string
+    image: string
+  }[]
 ): string => {
-  const dashes = '-'.repeat(name.length)
-  return `| <img src="${image}" alt="${name}" width="${percent}%"  /> |
-| ${dashes} |
-| [${name}](${url}) |
-`
+  const headerRow = '| Image | Title |\n|---------|--------|\n'
+
+  const rows = tools
+    .map(
+      (tool) =>
+        `| <img src="${tool.image}" alt="${tool.name}" width="fit-content" /> | [${tool.name}](${tool.url}) |\n`
+    )
+    .join('')
+  return `${headerRow}${rows}`
 }
