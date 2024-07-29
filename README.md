@@ -6,11 +6,12 @@
 
 ## Hi, I'm Jhan Gómez, you're welcome👋
 
-- I love do code and training ai models
-- You can visit my main page where I put my works, that's online in [jhangmez.xyz](https://jhangmez.xyz)
+
+- I love coding and training AI models
+- You can visit my main page where I post my works, which is online at [jhangmez.xyz](https://jhangmez.xyz)
+
 
 ### My stack
-
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&style=flat-square&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?logo=react&style=flat-square&logoColor=white" />
@@ -45,25 +46,23 @@
 - <img src="https://jhangmez.vercel.app/favicon.ico" alt='portafolio' width="20"/> [Web Resume](https://github.com/jhangmez/pagina)
 - <img src="https://gamarra.vercel.app/favicon.ico" alt='portafolio' width="20"/> [Ronal Store](https://ronal.quatu.xyz)
 
+
 #### AI
 
 - <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/644474219174daa2f6919d31/x0-nnMAxNtWqyaEaO_X71.jpeg" alt='hugginfaces me' width="20"/> [ChatPRG](https://huggingface.co/collections/jhangmez/chatprg-66a7354d248478833bd4bf40)
 
 ### Tools
 
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Mapas%20Conceptuales&description=null&bg=181211&color=D1D0CF" alt="Background gradients" width="40%"  />   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor)                                                                                                             |
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="40%"  />             |
-| -------------                                                                                                                                                                    |
-| [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech)                                                                                                                    |
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Generador%20de%20gradientes&description=null&bg=2d089a&color=ffffff" alt="Conceptual maps" width="40%"  /> |
-| ---------------                                                                                                                                                                  |
-| [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual)                                                                                                                 |
+| Image | Title |
+|---------|--------|
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff" alt="Background gradients" width="fit-content" /> | [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor) |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="fit-content" /> | [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech) |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF" alt="Conceptual maps" width="fit-content" /> | [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual) |
 
-### Harkaysoft
 
-<img src="https://avatars.githubusercontent.com/u/156686023?s=200&v=4" alt='My freelance company' width="40"/>
+### My organization
+
+- <img src="https://avatars.githubusercontent.com/u/156686023?s=200&v=4" alt='My freelance company' width="40"/> <strong>[Harkaysoft](https://harkaysoft.vercel.app)</strong>
 
 ### Social
 
@@ -77,7 +76,8 @@
 - <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt='gmail' width="20"/> [jhangmez.pe@gmail.com](mailto:jhangmez.pe@gmail.com)
 - <img src="https://www.linkedin.com/favicon.ico" alt='linkedin' width="20"/> [Linkedin](https://linkedin.com/in/jhangmez/)
 
-##### Last update: Monday, July 29, 2024 at 3:22 PM GMT-5
+
+##### Last update: Monday, July 29, 2024 at 3:59 PM GMT-5
 
 ---
 
