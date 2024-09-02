@@ -1,4 +1,8 @@
-import { generateBadgeUrl, generateToolUrl } from './src/utils/auxiliars'
+import {
+  generateBadgeUrl,
+  generateToolUrl,
+  generatePackageUrl
+} from './src/utils/auxiliars'
 import Mustache from 'mustache'
 import fs from 'fs-extra'
 const MUSTACHE_MAIN_DIR = './main.mustache'
@@ -88,9 +92,25 @@ const TOOLS = [
     url: 'https://www.jhangmez.xyz/tools/mapaconceptual',
     image:
       'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF'
+  },
+  {
+    name: 'Conversation generator for datasets',
+    url: 'https://www.jhangmez.xyz/tools/dataset',
+    image:
+      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conversation%20generator%20for%20datasets&description=null&bg=3F4565&color=ffffff'
   }
 ]
 const toolUrls = generateToolUrl(TOOLS)
+const PACKAGUES = [
+  {
+    name: 'Shopping cart',
+    url: 'https://www.npmjs.com/package/carrito-de-compras',
+    image:
+      'https://www.jhangmez.xyz/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff',
+    site: 'npm'
+  }
+]
+const packageUrls = generatePackageUrl(PACKAGUES)
 
 let DATA = {
   name: 'Jhan Gómez',
@@ -105,7 +125,8 @@ let DATA = {
     timeZone: 'America/Lima'
   }),
   badges: badgeUrls.join(''),
-  tools: toolUrls
+  tools: toolUrls,
+  packages: packageUrls
 }
 /**
  * A - We open 'main.mustache'
