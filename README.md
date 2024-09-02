@@ -6,12 +6,11 @@
 
 ## Hi, I'm Jhan Gómez, welcome👋
 
-
 - I love coding and training AI models
 - You can visit my main page where I post my works, which is online at [jhangmez.xyz](https://jhangmez.xyz)
 
-
 ### My stack
+
 <p>
  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&style=flat-square&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?logo=react&style=flat-square&logoColor=white" />
@@ -46,27 +45,24 @@
 - <img src="https://jhangmez.vercel.app/favicon.ico" alt='portafolio' width="20"/> [Portfolio](https://github.com/jhangmez/pagina)
 - <img src="https://gamarra.vercel.app/favicon.ico" alt='portafolio' width="20"/> [GOTEC Store](https://gotec.quatu.xyz)
 
-
 #### AI
 
 - <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/644474219174daa2f6919d31/x0-nnMAxNtWqyaEaO_X71.jpeg" alt='hugginfaces me' width="20"/> [ChatPRG](https://huggingface.co/collections/jhangmez/chatprg-66a7354d248478833bd4bf40)
 
 ### Packagues
 
-| Image | Title | Site |
-|---------|--------|------|
+| Image                                                                                                                                                                     | Title                                                             | Site                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff" alt="Shopping cart" width="fit-content" /> | [Shopping cart](https://www.npmjs.com/package/carrito-de-compras) | <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 15 15" className="mx-1"><path fill="none" stroke="black" d="M4.5 10.5v2h2v-2h8v-6H.5v6zm0 0v-6m4 0v6M6.5 6v3m-4-3v4.5m8-4.5v4.5m2-4.5v4.5"/></svg> |
-
 
 ### Tools
 
-| Image | Title |
-|---------|--------|
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff" alt="Background gradients" width="fit-content" /> | [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor) |
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="fit-content" /> | [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech) |
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF" alt="Conceptual maps" width="fit-content" /> | [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual) |
+| Image                                                                                                                                                                                                                     | Title                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff" alt="Background gradients" width="fit-content" />                                   | [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor)          |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="fit-content" />                                               | [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech)                 |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF" alt="Conceptual maps" width="fit-content" />                                             | [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual)              |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conversation%20generator%20for%20datasets&description=null&bg=3F4565&color=ffffff" alt="Conversation generator for datasets" width="fit-content" /> | [Conversation generator for datasets](https://www.jhangmez.xyz/tools/dataset) |
-
 
 ### My organization
 
@@ -84,8 +80,7 @@
 - <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt='gmail' width="20"/> [jhangmez.pe@gmail.com](mailto:jhangmez.pe@gmail.com)
 - <img src="https://www.linkedin.com/favicon.ico" alt='linkedin' width="20"/> [Linkedin](https://linkedin.com/in/jhangmez/)
 
-
-##### Last update: Monday, September 2, 2024 at 4:59 PM GMT-5
+##### Last update: Monday, September 2, 2024 at 11:23 AM GMT-5
 
 ---
 
