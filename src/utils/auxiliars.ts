@@ -39,7 +39,7 @@ export const generatePackageUrl = (
 ): string => {
   const headerRow = '| Image | Title | Site |\n|---------|--------|------|\n'
 
-  const npmSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 15 15" className="mx-1"><path fill="none" stroke="black" d="M4.5 10.5v2h2v-2h8v-6H.5v6zm0 0v-6m4 0v6M6.5 6v3m-4-3v4.5m8-4.5v4.5m2-4.5v4.5"/></svg>`
+  const npmSvg = `<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDE1IDE1IiBjbGFzc05hbWU9Im14LTEiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik00LjUgMTAuNXYyaDJ2LTJoOHYtNkguNXY2em0wIDB2LTZtNCAwdjZNNi41IDZ2M20tNC0zdjQuNW04LTQuNXY0LjVtMi00LjV2NC41Ii8+PC9zdmc+" alt="NPM logo" width="28" height="28" />`
 
   const rows = tools
     .map(
