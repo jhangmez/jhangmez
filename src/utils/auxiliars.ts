@@ -39,7 +39,7 @@ export const generatePackageUrl = (
 ): string => {
   const headerRow = '| Image | Title | Site |\n|---------|--------|------|\n'
 
-  const npmSvg = `<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDE1IDE1IiBjbGFzc05hbWU9Im14LTEiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik00LjUgMTAuNXYyaDJ2LTJoOHYtNkguNXY2em0wIDB2LTZtNCAwdjZNNi41IDZ2M20tNC0zdjQuNW04LTQuNXY0LjVtMi00LjV2NC41Ii8+PC9zdmc+" alt="NPM logo" width="28" height="28" />`
+  const npmImage = `<img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" alt="NPM logo" width="40" style="max-width: 100%;" />`
 
   const rows = tools
     .map(
@@ -47,7 +47,7 @@ export const generatePackageUrl = (
         `| <img src="${tool.image}" alt="${
           tool.name
         }" width="fit-content" /> | [${tool.name}](${tool.url}) | ${
-          tool.site.toLowerCase() === 'npm' ? npmSvg : tool.site
+          tool.site.toLowerCase() === 'npm' ? npmImage : tool.site
         } |\n`
     )
     .join('')

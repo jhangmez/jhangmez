@@ -55,7 +55,7 @@
 
 | Image | Title | Site |
 |---------|--------|------|
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff" alt="Shopping cart" width="fit-content" /> | [Shopping cart](https://www.npmjs.com/package/carrito-de-compras) | <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDE1IDE1IiBjbGFzc05hbWU9Im14LTEiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik00LjUgMTAuNXYyaDJ2LTJoOHYtNkguNXY2em0wIDB2LTZtNCAwdjZNNi41IDZ2M20tNC0zdjQuNW04LTQuNXY0LjVtMi00LjV2NC41Ii8+PC9zdmc+" alt="NPM logo" width="28" height="28" /> |
+| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff" alt="Shopping cart" width="fit-content" /> | [Shopping cart](https://www.npmjs.com/package/carrito-de-compras) | <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" alt="NPM logo" width="40" style="max-width: 100%;" /> |
 
 
 ### Tools
@@ -85,7 +85,7 @@
 - <img src="https://www.linkedin.com/favicon.ico" alt='linkedin' width="20"/> [Linkedin](https://linkedin.com/in/jhangmez/)
 
 
-##### Last update: Wednesday, September 4, 2024 at 6:57 AM GMT-5
+##### Last update: Wednesday, September 4, 2024 at 7:02 AM GMT-5
 
 ---
 
