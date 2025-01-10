@@ -8,7 +8,7 @@
 
 
 - I love coding and training AI models
-- You can visit my main page where I post my works, which is online at [jhangmez.xyz](https://jhangmez.xyz)
+- You can visit my main page where I post my works, which is online at [jhangmez.xyz](https://jhangmez.vercel.app)
 
 
 ### My stack
@@ -55,14 +55,14 @@
 
 | Image | Title | Site |
 |---------|--------|------|
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff" alt="Shopping cart" width="fit-content" /> | [Shopping cart](https://www.npmjs.com/package/carrito-de-compras) | <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" alt="NPM logo" width="40" style="max-width: 100%;" /> |
+| <img src="https://jhangmez.vercel.app/api/img?width=260&height=200&title=Shopping%20cart&description=null&bg=af0808&color=ffffff" alt="Shopping cart" width="fit-content" /> | [Shopping cart](https://www.npmjs.com/package/carrito-de-compras) | <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" alt="NPM logo" width="40" style="max-width: 100%;" /> |
 
 
 ### Tools
 
 | Image | Title |
 |---------|--------|
-| <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff" alt="Background gradients" width="fit-content" /> | [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor) |
+| <img src="https://jhangmez.vercel.app/api/img?width=260&height=200&title=Background%20gradients&description=null&bg=2d089a&color=ffffff" alt="Background gradients" width="fit-content" /> | [Background gradients](https://www.jhangmez.xyz/tools/gradientcolor) |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Voice%20to%20Text&description=null&bg=0F1A1F&color=8ECEF9" alt="Voice to text" width="fit-content" /> | [Voice to text](https://www.jhangmez.xyz/tools/voicetospeech) |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conceptual%20maps&description=null&bg=181211&color=D1D0CF" alt="Conceptual maps" width="fit-content" /> | [Conceptual maps](https://www.jhangmez.xyz/tools/mapaconceptual) |
 | <img src="https://www.jhangmez.xyz/api/img?width=260&height=200&title=Conversation%20generator%20for%20datasets&description=null&bg=3F4565&color=ffffff" alt="Conversation generator for datasets" width="fit-content" /> | [Conversation generator for datasets](https://www.jhangmez.xyz/tools/dataset) |
